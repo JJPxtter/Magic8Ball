@@ -1,8 +1,8 @@
 namespace Magic8Ball
 {
-    public partial class Form1 : Form
+    public partial class MagicBall : Form
     {
-        public Form1()
+        public MagicBall()
         {
             InitializeComponent();
         }
